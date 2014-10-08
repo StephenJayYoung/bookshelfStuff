@@ -1,0 +1,32 @@
+{
+  "name": "bookshelfStuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knexfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^2.3.5",
+    "bookshelf": "^0.7.7",
+    "chai": "^1.9.2",
+    "knex": "^0.7.3",
+    "pg": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StephenJayYoung/bookshelfStuff.git"
+  },
+  "author": "Stephen Jay Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenJayYoung/bookshelfStuff/issues"
+  },
+  "homepage": "https://github.com/StephenJayYoung/bookshelfStuff"
+}
